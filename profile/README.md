@@ -71,6 +71,8 @@ Imagine an app that instantly knows where you are, understands the weather, and 
 - Lightweight and efficient backend framework for handling API requests.
 - Ensures fast response times and seamless integration with external services (e.g., weather and mapping APIs).
 
+### Frontend mobile: **react nativ **
+
 ### APIs and Libraries:
 - **OpenWeather API**: For real-time weather data.
 - **Google Maps API**: For location visualization and directions.
